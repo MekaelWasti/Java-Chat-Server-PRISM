@@ -1,4 +1,4 @@
-# Java-Chat-Server-PRISM-Without-GUI-
+# Java-Chat-Server-PRISM
 
 Java multithreaded server program made to manage multiple PRISM chat application clients, connecting from any connection on the internet.
 
